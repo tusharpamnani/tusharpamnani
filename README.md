@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
+- 👨‍💻 All of my projects are available at [https://tusharpamnani.github.io/Personal-Portfolio/](https://tusharpamnani.github.io/Personal-Portfolio/)
+
 - 📫 How to reach me **tusharpamnani1@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
