@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://tusharpamnani.github.io/MyPortfolio/](https://tusharpamnani.github.io/MyPortfolio/)
 
