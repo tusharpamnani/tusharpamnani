@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://tusharpamnani.github.io/MyPortfolio/](https://tusharpamnani.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-six-topaz.vercel.app/](https://my-portfolio-six-topaz.vercel.app/)
 
-- 📫 How to reach me **tusharpamnani1@gmail.com**
+- 📫 How to reach me **tusharpamnani55@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
