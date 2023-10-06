@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tushar Pamnani and I'm a Student Developer from Nagpur</h2>
+<h2 align="left">Hi 👋! My name is Tushar Pamnani and I'm a Developer from Nagpur</h2>
 
 ###
 
