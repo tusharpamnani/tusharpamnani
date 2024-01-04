@@ -9,6 +9,8 @@
   [![tusharpamnani's GitHub | Stats](https://stats.quine.sh/tusharpamnani/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tusharpamnani)
   
   [![tusharpamnani's GitHub | Languages](https://stats.quine.sh/tusharpamnani/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tusharpamnani)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharpamnani&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=holi&hide_border=false" height="230" alt="languages graph" />
 </div>
 
 ###
