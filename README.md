@@ -73,12 +73,8 @@ let tushar_pamnani = TusharPamnani {
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharpamnani&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=dark&hide_border=false" height="230" alt="languages graph" />
-
-  <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tusharpamnani&show_icons=true&theme=dark" alt="GitHub Stats" height="200" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharpamnani&theme=dark" alt="GitHub Streak"  height="200"/>
-  </p>
-  <img src="https://streak-stats.demolab.com?user=tusharpamnani&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
