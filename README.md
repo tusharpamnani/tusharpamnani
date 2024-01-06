@@ -4,8 +4,6 @@
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/tusharpamnani/count.svg" />
 </p>
-<div align="center">
-
 
 ```JavaScript
 const tusharpamnani = {
@@ -16,7 +14,8 @@ const tusharpamnani = {
   contactMe: ["tusharpamnani55@gmail.com"]
 };
 ```
-  
+
+<div align="center">  
   [![tusharpamnani's GitHub | Stats](https://stats.quine.sh/tusharpamnani/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tusharpamnani)
   
   [![tusharpamnani's GitHub | Languages](https://stats.quine.sh/tusharpamnani/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tusharpamnani)
