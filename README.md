@@ -5,6 +5,17 @@
   <img src="https://profile-counter.glitch.me/tusharpamnani/count.svg" />
 </p>
 <div align="center">
+
+
+```JavaScript
+const tusharpamnani = {
+  fullName: "Tushar Pamnani",
+  tags: ["Back-end ❤️", "Open-Source 🚀", "Communities 🙌", "Hackathons ⚡", "Competitive Programming 💡",  "Blockchain 🎯"],
+  communitiesInvolvedWith: ["The CodeBreakers 💙", "ML Nagpur 💜", "Learner's Den 🧡", "Central DAO 💛"],
+  askMeAbout: ["Web Development", "Blockchain Devlopement", "Open Source","Community Building"],
+  contactMe: ["tusharpamnani55@gmail.com"]
+};
+```
   
   [![tusharpamnani's GitHub | Stats](https://stats.quine.sh/tusharpamnani/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tusharpamnani)
   
