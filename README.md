@@ -5,14 +5,14 @@
   <img src="https://profile-counter.glitch.me/tusharpamnani/count.svg" />
 </p>
 
-```JavaScript
-const tusharpamnani = {
-  fullName: "Tushar Pamnani",
-  tags: ["Back-end ❤️", "Open-Source 🚀", "Communities 🙌", "Hackathons ⚡", "Competitive Programming 💡",  "Blockchain 🎯"],
-  communitiesInvolvedWith: ["The CodeBreakers 💙", "ML Nagpur 💜", "Learner's Den 🧡", "Central DAO 💛"],
-  askMeAbout: ["Web Development", "Blockchain Devlopement", "Open Source","Community Building"],
-  contactMe: ["tusharpamnani55@gmail.com"]
-};
+```Rust
+let tushar_pamnani = TusharPamnani {
+        full_name: "Tushar Pamnani",
+        tags: vec!["Back-end ❤️", "Open-Source 🚀", "Communities 🙌", "Hackathons ⚡", "Competitive Programming 💡", "Blockchain 🎯"],
+        communities_involved_with: vec!["The CodeBreakers 💙", "ML Nagpur 💜", "Learner's Den 🧡", "Central DAO 💛"],
+        ask_me_about: vec!["Web Development", "Blockchain Development", "Open Source", "Community Building"],
+        contact_me: vec!["tusharpamnani55@gmail.com"],
+    };
 ```
 
 <div align="center">  
