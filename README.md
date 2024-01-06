@@ -16,6 +16,7 @@ let tushar_pamnani = TusharPamnani {
 ```
 
 <div align="center">  
+  
   [![tusharpamnani's GitHub | Stats](https://stats.quine.sh/tusharpamnani/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tusharpamnani)
   
   [![tusharpamnani's GitHub | Languages](https://stats.quine.sh/tusharpamnani/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tusharpamnani)
