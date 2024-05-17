@@ -8,8 +8,8 @@
 ```Rust
 let tushar_pamnani = TusharPamnani {
         full_name: "Tushar Pamnani",
-        tags: vec!["Back-end ❤️", "Open-Source 🚀", "Communities 🙌", "Hackathons ⚡", "Competitive Programming 💡", "Blockchain 🎯"],
-        communities_involved_with: vec!["The CodeBreakers 💙", "ML Nagpur 💜", "Learner's Den 🧡", "Central DAO 💛"],
+        tags: vec!["Blockchain 🎯", "Communities 🙌", "Back-end ❤️", "Open-Source 🚀", "Hackathons ⚡", "Competitive Programming 💡"],
+        communities_involved_with: vec!["CoinDCX 💙", "Push Protocol 💜", "Zerion 💙", "Capx Collective 💚", "ML Nagpur 🧡", "Central DAO 💛"],
         ask_me_about: vec!["Web Development", "Blockchain Development", "Open Source", "Community Building"],
         contact_me: vec!["tusharpamnani55@gmail.com"],
     };
