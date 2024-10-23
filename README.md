@@ -5,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/tusharpamnani/count.svg" />
 </p>
 
+  [![An image of @tusharpamnani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharpamnani)](https://holopin.io/@tusharpamnani)
+
 ```Rust
 let tushar_pamnani = TusharPamnani {
         full_name: "Tushar Pamnani",
