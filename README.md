@@ -1,83 +1,183 @@
-<h2 align="left">Hi 👋! My name is Tushar Pamnani and I'm a Developer from Nagpur</h2>
+<h1 align="center">
+  👋 Hi, I’m <span style="color:#4f46e5">Tushar Pamnani</span>
+</h1>
 
-###
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/tusharpamnani/count.svg" />
+<p align="center">
+  <b>Developer Relations Engineer • Blockchain Protocol Developer • Open Source Advocate</b>
 </p>
 
-  [![An image of @tusharpamnani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharpamnani)](https://holopin.io/@tusharpamnani)
+<p align="center">
+  Building developer-first infrastructure, DeFi protocols, and communities that actually ship.
+</p>
 
-```Rust
-let tushar_pamnani = TusharPamnani {
-        full_name: "Tushar Pamnani",
-        tags: vec!["Blockchain 🎯", "Communities 🙌", "Back-end ❤️", "Open-Source 🚀", "Hackathons ⚡", "Competitive Programming 💡"],
-        communities_involved_with: vec!["CoinDCX 💙", "Push Protocol 💜", "Zerion 💙", "Capx Collective 💚", "ML Nagpur 🧡", "Central DAO 💛"],
-        ask_me_about: vec!["Web Development", "Blockchain Development", "Open Source", "Community Building"],
-        contact_me: vec!["tusharpamnani55@gmail.com"],
-    };
+<p align="center">
+  <a href="https://linkedin.com/in/tushar-pamnani">LinkedIn</a> ·
+  <a href="https://twitter.com/Tushar_Pamnani_">X (Twitter)</a> ·
+  <a href="mailto:tusharpamnani55@gmail.com">Email</a>
+</p>
+
+---
+
+## 🧭 Interface: `whoami`
+
+```bash
+$ whoami
+> Tushar Pamnani
+
+$ location
+> India 🇮🇳 (Global / Remote)
+
+$ current_focus
+> DeFi Protocols, AMMs, Developer Experience, DevRel Systems
+````
+
+---
+
+## 🧠 Interface: `about --verbose`
+
+```ts
+interface DeveloperProfile {
+  role: string[];
+  superpower: string;
+  philosophy: string;
+  ecosystems: string[];
+}
+
+const tushar: DeveloperProfile = {
+  role: [
+    "Developer Relations Engineer",
+    "Blockchain / Protocol Developer",
+    "Community Builder",
+  ],
+  superpower:
+    "Bridging hardcore protocol engineering with developer empathy",
+  philosophy:
+    "If developers struggle, the protocol fails — DX is infrastructure.",
+  ecosystems: [
+    "Ethereum",
+    "Uniswap v4 (Hooks)",
+    "Solana",
+    "Stellar",
+    "Wormhole",
+  ],
+};
 ```
 
+---
 
-###
+## 🚀 Interface: `impact`
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+### What I actually do (beyond buzzwords):
 
-###
+* 🦄 **Design & build DeFi protocols**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
-</div>
+  * AMMs, hooks, composable primitives
+  * Gas-aware, production-oriented smart contracts
 
-###
+* 🧠 **Think deeply about developer experience**
 
-<div align="left">
-  <a href="https://linkedin.com/in/tushar-pamnani">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Tushar_Pamnani_">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="mailto:tusharpamnani55@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+  * APIs, SDKs, templates, docs, examples
+  * Reducing “time-to-first-success” for builders
 
+* 🌍 **Operate at ecosystem scale**
 
-###
+  * Hackathons, fellowships, workshops
+  * Open-source tooling used by other developers
 
-<h3 align="left">🔥   My Stats :</h3>
+* 🎤 **DevRel that ships**
 
-###
+  * Not just talks — real repos, real code, real users
 
-<div align="center">  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharpamnani" alt="tusharpamnani" /></a> </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharpamnani&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=dark&hide_border=false" height="230" alt="languages graph" />
-    <img src="https://github-readme-stats.vercel.app/api?username=tusharpamnani&show_icons=true&theme=dark" alt="GitHub Stats&card_width=450" height="230" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharpamnani&theme=dark&card_width=450" alt="GitHub Streak"  height="230"/>
-</div>
+---
 
-###
+## 🧪 Interface: `selected-work`
+
+```md
+📦 Protocol & Infra
+- Built a custom AMM from scratch (Solana)
+- Actively exploring Uniswap v4 hooks & design space
+- Experience with cross-chain primitives & messaging
+
+🛠 Developer Tooling
+- CLI / starter tooling for blockchain developers
+- Templates that reduce setup friction
+- Educational content paired with working code
+
+🌱 Community & DevRel
+- Fellowships & ecosystem programs
+- Mentored builders during hackathons
+- Helped developers go from idea → deployed contract
+```
+
+---
+
+## 🧩 Interface: `tech --stack`
+
+```yaml
+languages:
+  - Solidity
+  - Rust
+  - TypeScript / JavaScript
+  - Python
+  - C / C++ / Java
+
+protocols:
+  - Ethereum
+  - Uniswap v4
+  - Solana
+  - Stellar
+  - Wormhole
+
+tooling:
+  - Foundry
+  - Hardhat
+  - Anchor
+  - Node.js
+  - React
+  - MongoDB
+
+strengths:
+  - DeFi architecture
+  - Protocol UX
+  - Open-source maintainability
+  - Community-led growth
+```
+
+---
+
+## 🧠 Interface: `why-devrel`
+
+> “Good DevRel is invisible when done right.”
+
+I care about DevRel because:
+
+* Developers don’t read docs — they **copy code**
+* Most protocols fail at **onboarding, not tech**
+* The best DevRel engineers **ship infra**, not swag
+
+My goal is to:
+
+* Make complex protocols feel obvious
+* Turn confused developers into confident contributors
+* Build ecosystems that compound over time
+
+---
+
+## 📬 Interface: `contact`
+
+```bash
+$ reach --me
+> email: tusharpamnani55@gmail.com
+> linkedin: linkedin.com/in/tushar-pamnani
+> twitter: @Tushar_Pamnani_
+```
+
+---
+
+<p align="center">
+  <i>
+    “Developer experience is not a feature.
+    <br />
+    It’s the product.”
+  </i>
+</p>
