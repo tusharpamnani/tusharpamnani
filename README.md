@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <b>Developer Relations Engineer • Blockchain Protocol Developer • Open Source Advocate</b>
+  <b>Protocol Engineer • DeFi Mechanism Researcher • Founder @ Sevryn Labs</b>
 </p>
 
 <p align="center">
-  Building developer-first infrastructure, DeFi protocols, and communities that actually ship.
+  Designing financial primitives, market mechanisms, and protocol-level systems.
 </p>
 
 <p align="center">
@@ -18,100 +18,115 @@
 
 ---
 
-## 🧭 Interface: `whoami`
+## Interface: `whoami`
 
 ```bash
 $ whoami
 > Tushar Pamnani
 
+$ role
+> Founder @ Sevryn Labs
+
 $ location
 > India 🇮🇳 (Global / Remote)
 
 $ current_focus
-> DeFi Protocols, AMMs, Developer Experience, DevRel Systems
+> DeFi Protocol Design, Market Microstructure, Mechanism Design
 ````
 
 ---
 
-## 🧠 Interface: `about --verbose`
+## Interface: `about --verbose`
 
 ```ts
-interface DeveloperProfile {
+interface ProtocolEngineer {
   role: string[];
   superpower: string;
   philosophy: string;
-  ecosystems: string[];
+  researchAreas: string[];
 }
 
-const tushar: DeveloperProfile = {
+const tushar: ProtocolEngineer = {
   role: [
-    "Developer Relations Engineer",
-    "Blockchain / Protocol Developer",
-    "Community Builder",
+    "DeFi Protocol Engineer",
+    "Mechanism Designer",
+    "Protocol Researcher",
   ],
   superpower:
-    "Bridging hardcore protocol engineering with developer empathy",
+    "Translating financial intuition into mathematical protocol primitives",
   philosophy:
-    "If developers struggle, the protocol fails — DX is infrastructure.",
-  ecosystems: [
-    "Ethereum",
-    "Uniswap v4 (Hooks)",
-    "Solana",
-    "Stellar",
-    "Wormhole",
+    "A good protocol is not just code — it is a market with rules.",
+  researchAreas: [
+    "Automated Market Makers",
+    "Bonding Curves",
+    "Prediction Markets",
+    "Liquidity Mechanisms",
+    "Market Microstructure",
   ],
 };
 ```
 
 ---
 
-## 🚀 Interface: `impact`
+## Interface: `sevryn --labs`
 
-### What I actually do (beyond buzzwords):
+```bash
+$ organization
+> Sevryn Labs
 
-* 🦄 **Design & build DeFi protocols**
+$ mission
+> Research and build novel DeFi protocols and financial primitives.
 
-  * AMMs, hooks, composable primitives
-  * Gas-aware, production-oriented smart contracts
+$ focus
+> Designing mechanisms where math, incentives, and code align.
+```
 
-* 🧠 **Think deeply about developer experience**
+Sevryn Labs focuses on:
 
-  * APIs, SDKs, templates, docs, examples
-  * Reducing “time-to-first-success” for builders
-
-* 🌍 **Operate at ecosystem scale**
-
-  * Hackathons, fellowships, workshops
-  * Open-source tooling used by other developers
-
-* 🎤 **DevRel that ships**
-
-  * Not just talks — real repos, real code, real users
+* **Protocol research**
+* **mechanism design**
+* **financial primitives for decentralized markets**
 
 ---
 
-## 🧪 Interface: `selected-work`
+## Interface: `research`
+
+Recent topics explored:
+
+```
+• Bonding Curves — intuition → mathematical derivations
+• Automated Market Makers — invariants and pricing mechanics
+• Liquidity distribution across price space
+• LMSR prediction markets
+• Convexity in financial protocols
+```
+
+The goal is to understand **why protocols work**, not just how to implement them.
+
+---
+
+## Interface: `projects`
 
 ```md
-📦 Protocol & Infra
-- Built a custom AMM from scratch (Solana)
-- Actively exploring Uniswap v4 hooks & design space
-- Experience with cross-chain primitives & messaging
+DeFi Protocols
+- Custom AMM implementation (Solana)
+- Prediction market mechanism based on LMSR
+- Research-driven protocol experiments
 
-🛠 Developer Tooling
-- CLI / starter tooling for blockchain developers
-- Templates that reduce setup friction
-- Educational content paired with working code
+Protocol Research
+- Deep dives into bonding curves
+- Mathematical foundations of AMMs
+- Market microstructure in on-chain systems
 
-🌱 Community & DevRel
-- Fellowships & ecosystem programs
-- Mentored builders during hackathons
-- Helped developers go from idea → deployed contract
+Mechanism Design
+- Studying incentive structures in decentralized markets
+- Exploring liquidity formation mechanisms
+- Designing novel DeFi primitives
 ```
 
 ---
 
-## 🧩 Interface: `tech --stack`
+## Interface: `tech --stack`
 
 ```yaml
 languages:
@@ -121,12 +136,16 @@ languages:
   - Python
   - C / C++ / Java
 
+domains:
+  - DeFi Protocol Engineering
+  - Mechanism Design
+  - Market Microstructure
+  - Financial Math
+
 protocols:
   - Ethereum
-  - Uniswap v4
   - Solana
-  - Stellar
-  - Wormhole
+  - Uniswap Design Space
 
 tooling:
   - Foundry
@@ -134,36 +153,26 @@ tooling:
   - Anchor
   - Node.js
   - React
-  - MongoDB
-
-strengths:
-  - DeFi architecture
-  - Protocol UX
-  - Open-source maintainability
-  - Community-led growth
 ```
 
 ---
 
-## 🧠 Interface: `why-devrel`
+## Interface: `thinking`
 
-> “Good DevRel is invisible when done right.”
+> Most people see DeFi as smart contracts.
 
-I care about DevRel because:
+I see it as:
 
-* Developers don’t read docs — they **copy code**
-* Most protocols fail at **onboarding, not tech**
-* The best DevRel engineers **ship infra**, not swag
+```
+markets + incentives + math + code
+```
 
-My goal is to:
-
-* Make complex protocols feel obvious
-* Turn confused developers into confident contributors
-* Build ecosystems that compound over time
+Code only enforces the rules.
+The real challenge is **designing the system behind it.**
 
 ---
 
-## 📬 Interface: `contact`
+## Interface: `contact`
 
 ```bash
 $ reach --me
@@ -176,8 +185,8 @@ $ reach --me
 
 <p align="center">
   <i>
-    “Developer experience is not a feature.
+    "Protocols are programmable markets.
     <br />
-    It’s the product.”
+    Mechanism design is the real engineering."
   </i>
 </p>
